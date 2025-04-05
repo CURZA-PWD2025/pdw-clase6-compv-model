@@ -1,5 +1,8 @@
-# Vue 3 + TypeScript + Vite
+# Proyecto trabajado en clase
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### ✋ Estudiantes:
+a la aplicacion que trabajamos en clase le hice algunas mejoras 🦾, le agregue un poco de css 🖌️
+ya aplica la validacion para varios tipos de input , ahora  es por ``tipo`` mas clara y precisa.
+si quieren agregar: falta la validacion para ``numbers``, podrian jugar con los rangos min y max, que no sea negativo, ect.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+para poder testear tiene que instalar los paquetes usen el comando que vimos en clase ``npm install`` sino no les va a funcionar la aplicación 👍
